@@ -105,7 +105,3 @@ Type messages in the client terminal to see them echoed back.
 
 ---
 
-## Author
-
-Ikhwan Khairudin
-
